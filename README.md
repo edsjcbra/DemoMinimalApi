@@ -4,7 +4,7 @@ Demo of a Minimal API with Entity Framework and Identity
 # Sobre o projeto
 This s a Demo of a minimal API just to apply my knowledge and hve it mexposed as a Portifolio to show my skills.
 
-[https://github.com/edsjcbra/DemoMinimalApi)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Used Technologies
 ## Back end
