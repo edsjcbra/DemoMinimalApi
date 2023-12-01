@@ -2,10 +2,9 @@
 Demo of a Minimal API with Entity Framework and Identity
 
 # Sobre o projeto
-
-[https://github.com/edsjcbra/evertaotravel](https://github.com/edsjcbra/DemoMinimalApi)
-
 This s a Demo of a minimal API just to apply my knowledge and hve it mexposed as a Portifolio to show my skills.
+
+[https://github.com/edsjcbra/DemoMinimalApi)
 
 # Used Technologies
 ## Back end
@@ -15,15 +14,15 @@ This s a Demo of a minimal API just to apply my knowledge and hve it mexposed as
 Pré-requisites: .Net 8.0
 
 ```bash
-# clonar repositório
+# clone repository
 git clone https://github.com/edsjcbra/DemoMinimalApi
 
-# entrar na pasta do projeto back end
+# access project back end folder
 cd DemoMinimalApi
 
-# executar o projeto
+# execute project
 ./mvnw DemoMinimalApi:run
 ```
-# Autor
+# Author
 
 Ederson S
