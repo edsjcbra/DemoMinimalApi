@@ -141,3 +141,4 @@ C:\Users\edsjc\source\repos\DemoMinimalApi\DemoMinimalApi\bin\Debug\net8.0\Micro
 C:\Users\edsjc\source\repos\DemoMinimalApi\DemoMinimalApi\bin\Debug\net8.0\NetDevPack.Identity.dll
 C:\Users\edsjc\source\repos\DemoMinimalApi\DemoMinimalApi\bin\Debug\net8.0\NetDevPack.Security.Jwt.AspNetCore.dll
 C:\Users\edsjc\source\repos\DemoMinimalApi\DemoMinimalApi\bin\Debug\net8.0\NetDevPack.Security.Jwt.Core.dll
+C:\Users\edsjc\source\repos\DemoMinimalApi\DemoMinimalApi\obj\Debug\net8.0\DemoMinimalApi.sourcelink.json

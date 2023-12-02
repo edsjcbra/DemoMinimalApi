@@ -213,5 +213,5 @@ app.MapDelete("/fornecedor/{id}", [Authorize] async (
     .RequireAuthorization("ExcluirFornecedor")
     .WithName("DeleteFornecedor")
     .WithTags("Fornecedor");
-
+//commited to GitHub
 app.Run();
